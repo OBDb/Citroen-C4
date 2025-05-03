@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 2004
+    end_year: 2010
+    description: "The original Citroën C4 replaced the Xsara in Citroën's lineup, available as a five-door hatchback and a distinctive three-door coupé with different styling. It featured innovative design elements including a fixed-hub steering wheel (where the center remained stationary while the rim rotated) and dynamic digital displays. Built on PSA's PF2 platform, it offered various petrol and diesel engines ranging from 1.4L to 2.0L, with a performance-oriented VTS model available. Safety was emphasized with a 5-star Euro NCAP rating. The first-generation C4 established the nameplate as Citroën's core C-segment offering with a focus on innovation, distinctive design, and comfort rather than the sporty handling prioritized by some competitors."
+
+  - name: "Second Generation"
+    start_year: 2010
+    end_year: 2018
+    description: "The second-generation C4 adopted a more conventional five-door hatchback design, discontinuing the three-door coupé variant (which was effectively replaced by the DS4). Built on an updated PF2 platform, it featured more conservative styling but maintained some distinctive Citroën elements. Engine options included efficient PureTech petrol and BlueHDi diesel units, with a focus on reduced emissions and fuel consumption. The interior offered improved quality and technology, including an available eTouch emergency and assistance system. This generation balanced Citroën's traditional comfort focus with increased refinement and efficiency, though it faced strong competition in the crowded compact hatchback segment."
+
+  - name: "Third Generation"
+    start_year: 2020
+    end_year: null
+    description: "The current C4 represents a significant departure from its predecessors, adopting a crossover-inspired design that blends hatchback and SUV elements with a coupe-like roofline. Built on PSA's CMP platform (for petrol and diesel variants) and e-CMP (for the electric version), it offers exceptional powertrain flexibility. Options include various PureTech petrol and BlueHDi diesel engines, plus the fully-electric ë-C4 with a 50 kWh battery providing around 350 km (217 miles) of range. The interior showcases Citroën's 'Advanced Comfort' philosophy with supportive seats, simplified controls, and emphasis on ride quality with innovative hydraulic cushion suspension. Technology includes a 10-inch touchscreen infotainment system, digital instrument display, and comprehensive driver assistance features. This generation repositions the C4 to bridge multiple segments, reflecting changing consumer preferences and Citroën's strategy to offer distinctive alternatives to conventional category definitions."
