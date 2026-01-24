@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Citroën_C4"
+
 generations:
   - name: "First Generation"
     start_year: 2004
