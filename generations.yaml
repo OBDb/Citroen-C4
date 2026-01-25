@@ -4,15 +4,30 @@ references:
 generations:
   - name: "First Generation"
     start_year: 2004
-    end_year: 2010
+    end_year: 2007
     description: "The original Citroën C4 replaced the Xsara in Citroën's lineup, available as a five-door hatchback and a distinctive three-door coupé with different styling. It featured innovative design elements including a fixed-hub steering wheel (where the center remained stationary while the rim rotated) and dynamic digital displays. Built on PSA's PF2 platform, it offered various petrol and diesel engines ranging from 1.4L to 2.0L, with a performance-oriented VTS model available. Safety was emphasized with a 5-star Euro NCAP rating. The first-generation C4 established the nameplate as Citroën's core C-segment offering with a focus on innovation, distinctive design, and comfort rather than the sporty handling prioritized by some competitors."
+
+  - name: "First Generation (2008 Facelift)"
+    start_year: 2008
+    end_year: 2010
+    description: "At the 2008 Moscow International Automobile Salon, Citroën presented a facelifted C4 with updated styling. Both hatchback and coupé received cosmetic updates to the front end, which now featured a distinctive 'mouth' and larger trapezoid shape. The grille was redesigned to be slightly curved, with minor updates at the rear. The redesign included a slight lengthening of the car body and introduced the 1.6 Prince engine with variable valve timing and turbocharged direct injection. Ride comfort was improved through suspension refinements, and diesel versions received the Airdream package for reduced emissions and fuel consumption."
 
   - name: "Second Generation"
     start_year: 2010
+    end_year: 2014
+    description: "The second-generation C4 made its debut at the 2010 Paris Salon before launching in September 2010. It adopted a more conventional five-door hatchback design, discontinuing the three-door coupé variant (which was effectively replaced by the DS4). Built on an updated PF2 platform, it featured more conservative styling but maintained distinctive Citroën elements. Engine options included PureTech petrol and BlueHDi diesel units, with a focus on reduced emissions and fuel consumption. The interior offered improved quality and technology with modern digital instrumentation combined with analog design elements. This generation balanced Citroën's traditional comfort focus with increased refinement and efficiency."
+
+  - name: "Second Generation (2015 Facelift)"
+    start_year: 2015
     end_year: 2018
-    description: "The second-generation C4 adopted a more conventional five-door hatchback design, discontinuing the three-door coupé variant (which was effectively replaced by the DS4). Built on an updated PF2 platform, it featured more conservative styling but maintained some distinctive Citroën elements. Engine options included efficient PureTech petrol and BlueHDi diesel units, with a focus on reduced emissions and fuel consumption. The interior offered improved quality and technology, including an available eTouch emergency and assistance system. This generation balanced Citroën's traditional comfort focus with increased refinement and efficiency, though it faced strong competition in the crowded compact hatchback segment."
+    description: "The second-generation C4 received a comprehensive facelift in 2015 with visual and technical updates. The hatchback stayed in production until early 2018. The facelift introduced updated styling cues while maintaining the fundamental platform and overall design direction established in 2010. Engine options remained largely consistent with the pre-facelift model, featuring PureTech petrol and BlueHDi diesel powerplants. The interior received technology updates and refined design elements. Regional variants including the C4L (China), C4 Lounge (South America), and C4 Sedan (Russia) based on the same platform continued production with their own facelift schedules."
 
   - name: "Third Generation"
     start_year: 2020
+    end_year: 2024
+    description: "The third-generation C4 (C41) was revealed on 16 June 2020, representing a significant departure from its predecessors with a coupe SUV styling. Built on PSA's all-new EMP1 platform, it blends hatchback and SUV elements with a coupe-like roofline. The interior features a significant upgrade with more upmarket materials and a larger, wider touchscreen. Powertrain options include 1.2L PureTech turbocharged petrol and 1.5L BlueHDi diesel engines, plus the fully-electric ë-C4 with a 50 kWh battery providing around 350 km (217 miles) of WLTP range. The interior showcases Citroën's 'Advanced Comfort' philosophy with supportive seats, simplified controls, and emphasis on ride quality. A four-door fastback-styling saloon version called the C4 X was unveiled in June 2022. This generation repositions the C4 to bridge multiple segments, reflecting changing consumer preferences."
+
+  - name: "Third Generation (2025 Facelift)"
+    start_year: 2025
     end_year: null
-    description: "The current C4 represents a significant departure from its predecessors, adopting a crossover-inspired design that blends hatchback and SUV elements with a coupe-like roofline. Built on PSA's CMP platform (for petrol and diesel variants) and e-CMP (for the electric version), it offers exceptional powertrain flexibility. Options include various PureTech petrol and BlueHDi diesel engines, plus the fully-electric ë-C4 with a 50 kWh battery providing around 350 km (217 miles) of range. The interior showcases Citroën's 'Advanced Comfort' philosophy with supportive seats, simplified controls, and emphasis on ride quality with innovative hydraulic cushion suspension. Technology includes a 10-inch touchscreen infotainment system, digital instrument display, and comprehensive driver assistance features. This generation repositions the C4 to bridge multiple segments, reflecting changing consumer preferences and Citroën's strategy to offer distinctive alternatives to conventional category definitions."
+    description: "At the 2024 Paris Motor Show, Citroën unveiled the facelifted models of both the C4 and C4 X, inspired by the Oli concept car previewed in 2022. Both models feature a redesigned front fascia with the latest brand logo, while the C4 received a redesigned rear fascia with new LED taillights. Inside, there are new Advanced Comfort seats with thicker foam padding, a new 7-inch digital instrument cluster, and the touchscreen infotainment system features updated software. Other significant changes include new mild hybrid engines and the discontinuation of the manual transmission option. The C4X facelift began assembly in Egypt through the Arab American Vehicles (AAV) plant starting April 2025."
